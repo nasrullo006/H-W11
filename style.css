@@ -309,6 +309,54 @@
     height: auto;
 }
 
+.t51 {
+    display: flex;
+    border-radius: 12px;
+    height: 360px;
+}
+
+.t52 {
+    width: 50%;
+}
+
+.t53 {
+    width: 100%;
+    height: 100%;
+
+}
+
+.t54 {
+    width: 50%;
+    background: #f5cd51;
+    padding: 40px 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.t55 {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.t56 {
+    font-size: 13px;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.t57 {
+    font-size: 18px;
+    font-style: italic;
+    color: #222;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
 
 
 
